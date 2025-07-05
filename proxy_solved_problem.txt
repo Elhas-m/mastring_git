@@ -1,0 +1,1 @@
+"C:\Users\elhas\Programing\mastring_git (main) λ  git config --global http.proxy http://192.168.82.67:8080  C:\Users\elhas\Programing\mastring_git (main) λ  git config --global https.proxy http://192.168.82.67:8080"
